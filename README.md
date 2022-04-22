@@ -10,7 +10,7 @@ The dataset used in this project contains 300 images of humans with some backgro
 ![image](https://user-images.githubusercontent.com/74401465/164550218-9ae7a511-68ca-4379-920d-72bf05d8b5f5.png)
 
 
-# Evaluation example:
+# Testing:
 
 ![image](https://user-images.githubusercontent.com/74401465/164712987-40e0d5a5-4b2f-4580-bf81-387c654510fd.png)
 
