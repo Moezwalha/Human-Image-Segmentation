@@ -22,7 +22,7 @@ def show_image(image,mask,pred_image = None):
         ax1.set_title('IMAGE')
         ax1.imshow(image.permute(1,2,0).squeeze(),cmap = 'gray')
         
-        ax2.set_title('GROUND TRUTH')
+        ax2.set_title('Predicted Mask')
         ax2.imshow(mask.permute(1,2,0).squeeze(),cmap = 'gray')
         
         ax3.set_title('MODEL OUTPUT')
