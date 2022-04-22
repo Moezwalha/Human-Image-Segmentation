@@ -1,5 +1,3 @@
-# Human-Image-Segmentation:
-
 # Goal
 In this project, we will feed images and their mask to a model that will produce a segmented mask of humans for our given images. 
 We can use these segmented results for artificially blur the background of the images, in self-driving cars, change the background
